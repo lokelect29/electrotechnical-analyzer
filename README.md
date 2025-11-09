@@ -185,9 +185,12 @@ Ce projet est sous licence MIT. Voir le fichier [LICENSE](LICENSE) pour plus de 
 
 ## 👨‍💻 Auteur
 
-**Votre Nom**
-- GitHub: [@votre-username](https://github.com/votre-username)
-- Email: votre.email@example.com
+**Lokmane Boussaa**  
+🔹 Ingénieur en électrotechnique & formateur  
+🔹 Créateur de [LOKELECT Engineering](https://www.lokelect-engineering.com)  
+📧 [lokmane.boussaa@gmail.com](mailto:lokmane.boussaa@gmail.com)  
+🌐 [LinkedIn](https://www.linkedin.com/in/lokmane-boussaa-a3385339)
+
 
 ## 🙏 Remerciements
 
